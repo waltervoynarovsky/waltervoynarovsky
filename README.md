@@ -2,7 +2,7 @@
 I'm Walter, appreciate you coming by.
 
 ### Who am I?
-A junior cloud engineer. Due to finish _nology bootcamp. I'm also a photographer and videographer.
+A junior cloud engineer. Due to finish _nology full stack bootcamp. I'm also a photographer and videographer.
 
 <!--
 **waltervoynarovsky/waltervoynarovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
