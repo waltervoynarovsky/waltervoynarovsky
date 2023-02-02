@@ -4,8 +4,6 @@ I'm Walter, appreciate you coming by.
 ### Who am I?
 A junior cloud engineer. Soon to finish _nology full stack bootcamp. I'm also a photographer and videographer.
 
-### Who would I like to be?
-
 
 
 ## 🌐 Socials:
