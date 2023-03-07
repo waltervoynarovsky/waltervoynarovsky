@@ -2,7 +2,7 @@
 I'm Walter, appreciate you coming by.
 
 ### Who am I?
-A full-stack software engineer. Soon to finish _nology full stack bootcamp. I'm also a photographer and videographer.
+A full-stack software engineer. Recently finished _nology full stack bootcamp. I'm also a photographer and videographer.
 
 
 
